@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_job_benefits",
+  "info": {
+    "displayName": "Benefits",
+    "icon": "gift"
+  },
+  "options": {},
+  "attributes": {
+    "item": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_job_working_informations",
+  "info": {
+    "displayName": "Working Information",
+    "icon": "clock"
+  },
+  "options": {},
+  "attributes": {
+    "workingHours": {
+      "type": "string"
+    },
+    "officeLocation": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

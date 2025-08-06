@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_job_key_responsibilities",
+  "info": {
+    "displayName": "KeyResponsibilities",
+    "icon": "check"
+  },
+  "options": {},
+  "attributes": {
+    "item": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

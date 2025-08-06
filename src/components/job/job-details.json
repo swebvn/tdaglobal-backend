@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_job_job_details",
+  "info": {
+    "displayName": "Job Details",
+    "icon": "folder"
+  },
+  "options": {},
+  "attributes": {
+    "salary": {
+      "type": "string"
+    },
+    "experience": {
+      "type": "string"
+    },
+    "employmentType": {
+      "type": "string"
+    },
+    "valid_through": {
+      "type": "date"
+    }
+  },
+  "config": {}
+}

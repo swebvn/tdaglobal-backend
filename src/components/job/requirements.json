@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_job_requirements",
+  "info": {
+    "displayName": "Requirements",
+    "icon": "star"
+  },
+  "options": {},
+  "attributes": {
+    "item": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

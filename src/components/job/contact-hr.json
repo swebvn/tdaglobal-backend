@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_job_contact_hrs",
+  "info": {
+    "displayName": "Contact HR",
+    "icon": "globe"
+  },
+  "options": {},
+  "attributes": {
+    "contactEmail": {
+      "type": "email"
+    },
+    "contactPhone": {
+      "type": "string"
+    },
+    "contactName": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
